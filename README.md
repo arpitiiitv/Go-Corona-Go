@@ -15,3 +15,9 @@ Python 3.6 or more
 
 # Output Screen
 <img src="https://github.com/arpitiiitv/Go-Corona-Go/blob/master/Output%20screen.png" alt="Output">
+
+# References
+GFG https://www.geeksforgeeks.org/python-gui-tkinter/
+Covid https://pypi.org/project/covid/
+Plot https://matplotlib.org/
+
