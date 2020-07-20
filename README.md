@@ -7,3 +7,6 @@ Python 3.6 or more
 ## matplotlib => pip install matplotlib
 ## tkinter => pip install tkinter
 
+# Input Screen
+<img src="https://github.com/arpitiiitv/Go-Corona-Go/blob/master/Input%20screen.png" alt="Input">
+
